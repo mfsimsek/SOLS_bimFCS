@@ -4,7 +4,7 @@ Binned-imaging fluorescence correlation spectroscopy measurements on single obje
 REFERENCES:
 1- Simsek, Thesis, 2015. Proquest ID: 10141671.
 2- Weixian, Simsek, Pralle, Methods, 2018. DOI: 10.1016/j.ymeth.2018.02.019.
-2- Huang, Simsek, et al. PLoS One, 2015. DOI: 10.1371/journal.pone.0121777.
+3- Huang, Simsek, et al. PLoS One, 2015. DOI: 10.1371/journal.pone.0121777.
 
 Main analysis file is SOLS_bimFCS_Analysis_SimsekLab.
 Outputs are:
