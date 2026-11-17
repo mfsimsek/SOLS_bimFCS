@@ -16,6 +16,7 @@ Outputs are:
 This file relies on following supplementary files to run:
 1- lintolog.m : this file resamples acquired time data in logarithmic scale.
 2- bin2d_overlap.m : this file calculates convoluted intensities for each super-pixel by scanning the 2D pixel array.
+3- createfit_2c.m : this file fits the AC curves with double component FCS function. Term2 can be set to zero for single component fit.
 
 Next two files are used to measure w2 values and plug those in to the main analysis file.
 3- beamwaister_FCS.m : tis file calculates w2 effective beam waist values for each super-pixel using measured PSF value and camera pixel size.
